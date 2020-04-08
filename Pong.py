@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
+#Now this project is available in github.
+
+
 import pygame
 import sys
 from pygame.locals import *
